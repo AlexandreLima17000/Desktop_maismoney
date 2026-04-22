@@ -1,6 +1,5 @@
-package org.example;
+package org.example.maismoney;
 
-import org.example.DataBaseConfig;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
